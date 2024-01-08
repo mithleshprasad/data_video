@@ -1,0 +1,184 @@
+{
+  "video":[
+  {
+    "lecture": {
+      "video": "https://example.com/lecture1",
+      "title": "Introduction to Machine Learning",
+      "likes": 1200,
+      "views": 45000,
+      "time": "20:30"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture2",
+      "title": "Data Science Fundamentals",
+      "likes": 800,
+      "views": 35000,
+      "time": "25:15"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture3",
+      "title": "Python Programming Basics",
+      "likes": 600,
+      "views": 28000,
+      "time": "18:45"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture4",
+      "title": "Web Development Essentials",
+      "likes": 1000,
+      "views": 42000,
+      "time": "22:10"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture5",
+      "title": "Blockchain Technology Overview",
+      "likes": 1500,
+      "views": 55000,
+      "time": "19:50"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture6",
+      "title": "Cybersecurity Fundamentals",
+      "likes": 900,
+      "views": 38000,
+      "time": "21:25"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture7",
+      "title": "Artificial Intelligence in Healthcare",
+      "likes": 1300,
+      "views": 49000,
+      "time": "24:05"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture8",
+      "title": "Quantum Computing Explained",
+      "likes": 1100,
+      "views": 47000,
+      "time": "23:15"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture9",
+      "title": "Mobile App Development Best Practices",
+      "likes": 700,
+      "views": 32000,
+      "time": "17:40"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture10",
+      "title": "Introduction to Deep Learning",
+      "likes": 1800,
+      "views": 60000,
+      "time": "26:30"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture11",
+      "title": "Big Data Analytics Strategies",
+      "likes": 950,
+      "views": 40000,
+      "time": "20:55"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture12",
+      "title": "UX/UI Design Principles",
+      "likes": 1200,
+      "views": 45000,
+      "time": "22:50"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture13",
+      "title": "Cloud Computing Basics",
+      "likes": 850,
+      "views": 36000,
+      "time": "19:20"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture14",
+      "title": "Internet of Things (IoT) Overview",
+      "likes": 1100,
+      "views": 47000,
+      "time": "23:40"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture15",
+      "title": "Natural Language Processing Essentials",
+      "likes": 1600,
+      "views": 52000,
+      "time": "25:20"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture16",
+      "title": "Computer Vision Fundamentals",
+      "likes": 1000,
+      "views": 42000,
+      "time": "21:35"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture17",
+      "title": "Agile Development Methodology",
+      "likes": 750,
+      "views": 34000,
+      "time": "18:10"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture18",
+      "title": "Augmented Reality (AR) Basics",
+      "likes": 1350,
+      "views": 51000,
+      "time": "24:45"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture19",
+      "title": "Ethical Hacking Techniques",
+      "likes": 880,
+      "views": 37000,
+      "time": "20:15"
+    }
+  },
+  {
+    "lecture": {
+      "video": "https://example.com/lecture20",
+      "title": "Raspberry Pi Projects Showcase",
+      "likes": 1200,
+      "views": 45000,
+      "time": "22:30"
+    }
+  }
+]
+}
